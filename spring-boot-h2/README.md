@@ -4,6 +4,7 @@ WEB H2 database console
 http://localhost:8080/h2-console
 
 POSTMAN
+
 0. GET http://localhost:8080/api
 1. GET http://localhost:8080/api/allPrices
 2. GET http://localhost:8080/api/price
